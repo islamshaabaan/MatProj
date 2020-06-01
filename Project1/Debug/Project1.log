@@ -1,0 +1,41 @@
+﻿Build started 6/1/2020 3:20:30 AM.
+     1>Project "C:\Users\one\Desktop\Programming\Project1\Project1\Project1.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp
+         Source.cpp
+     1>c:\users\one\desktop\programming\project1\project1\source.cpp(21): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\one\desktop\programming\project1\project1\source.cpp(38): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\one\desktop\programming\project1\project1\source.cpp(44): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\one\desktop\programming\project1\project1\source.cpp(51): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\one\desktop\programming\project1\project1\source.cpp(59): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\one\desktop\programming\project1\project1\source.cpp(66): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\one\desktop\programming\project1\project1\source.cpp(78): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\one\desktop\programming\project1\project1\source.cpp(80): warning C4018: '>' : signed/unsigned mismatch
+     1>c:\users\one\desktop\programming\project1\project1\source.cpp(197): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\one\desktop\programming\project1\project1\source.cpp(202): warning C4258: 'n' : definition from the for loop is ignored; the definition from the enclosing scope is used
+                 c:\users\one\desktop\programming\project1\project1\source.cpp(197) : definition of 'n' ignored
+                 c:\users\one\desktop\programming\project1\project1\source.cpp(187) : definition of 'n' used
+     1>c:\users\one\desktop\programming\project1\project1\source.cpp(205): warning C4258: 'n' : definition from the for loop is ignored; the definition from the enclosing scope is used
+                 c:\users\one\desktop\programming\project1\project1\source.cpp(197) : definition of 'n' ignored
+                 c:\users\one\desktop\programming\project1\project1\source.cpp(187) : definition of 'n' used
+     1>c:\users\one\desktop\programming\project1\project1\source.cpp(206): warning C4258: 'n' : definition from the for loop is ignored; the definition from the enclosing scope is used
+                 c:\users\one\desktop\programming\project1\project1\source.cpp(197) : definition of 'n' ignored
+                 c:\users\one\desktop\programming\project1\project1\source.cpp(187) : definition of 'n' used
+     1>c:\users\one\desktop\programming\project1\project1\source.cpp(226): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\one\desktop\programming\project1\project1\source.cpp(229): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\one\desktop\programming\project1\project1\source.cpp(231): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\one\desktop\programming\project1\project1\source.cpp(242): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\one\desktop\programming\project1\project1\source.cpp(260): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\one\desktop\programming\project1\project1\source.cpp(265): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\one\desktop\programming\project1\project1\source.cpp(266): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\one\desktop\programming\project1\project1\source.cpp(431): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\one\desktop\programming\project1\project1\source.cpp(433): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\one\desktop\programming\project1\project1\source.cpp(74): warning C4715: 'GetMatrixDef' : not all control paths return a value
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\one\Desktop\Programming\Project1\Debug\Project1.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\one\Desktop\Programming\Project1\Debug\Project1.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\one\Desktop\Programming\Project1\Debug\Project1.lib" /MACHINE:X86 Debug\Source.obj
+         Project1.vcxproj -> C:\Users\one\Desktop\Programming\Project1\Debug\Project1.exe
+     1>Done Building Project "C:\Users\one\Desktop\Programming\Project1\Project1\Project1.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:05.96
